@@ -3,6 +3,13 @@
 A personal AI assistant that reads your documents, retrieves relevant information, and generates answers using Retrieval-Augmented Generation (RAG).
 
 The application allows users to upload PDF and TXT documents and ask questions about their contents through a simple web interface.
+## Application Preview
+
+### AI Chat Interface
+![AI Chat](screenshots/chat.png)
+
+### Document Management
+![Document Management](screenshots/documents.png)
 
 ## Features
 
