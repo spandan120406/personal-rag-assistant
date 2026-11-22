@@ -1,0 +1,16 @@
+
+Personal RAG Assistant Project
+
+This project is being developed using Python.
+
+The AI model used is NVIDIA Nemotron 3.5 Lightning 30B A3B.
+
+Sentence Transformers is used to generate document embeddings.
+
+The embedding model is all-MiniLM-L6-v2.
+
+ChromaDB is used as the vector database.
+
+The assistant can retrieve information from uploaded documents and generate answers using an AI language model.
+
+The goal is to create a personal AI assistant that can understand PDFs, text files and answer questions based on their contents.

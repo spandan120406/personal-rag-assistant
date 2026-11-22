@@ -1,0 +1,28 @@
+
+# Environment variables and API keys
+.env
+.env.*
+!.env.example
+
+# Python virtual environment
+venv/
+__pycache__/
+*.py[cod]
+
+# ChromaDB
+chroma_db/
+
+# Node dependencies
+node_modules/
+frontend/node_modules/
+
+# Build output
+frontend/dist/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+# Private documents
+docs/*.pdf
